@@ -1,38 +1,139 @@
-.App {
+.font-mulish {
+  font-family: "Mulish", sans-serif;
+  color: #2F2F2F!important;
+  font-weight: 600!important;
+}
+
+.bg-color {
+  background-color: white;
+}
+
+.home {
+  background-image: url("./images/bg1.png");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.font-fraunces {
+  font-family: "Fraunces", serif;
+  color: #242F65!important;
+  font-weight: 600!important;
+  font-size: 70px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.custom-container {
+  width: 45rem;
+  margin-top: 100px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.break {
+  text-align: center; 
+  border-bottom: 1px solid #CCCCCC; 
+  line-height: 0.1em;
+  margin: 10px 0 20px; 
+} 
+
+.break, span { 
+  background:#fff; 
+  padding:0 10px; 
+  font-size: 20px;
+  color: #242F65;
+}
+
+span {
+  border-left: 1px solid #CCCCCC;
+  border-right: 1px solid #CCCCCC;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.line {
+  margin: 100px;
+  width: 900px;
+}
+
+.font-f {
+  font-family: "Fraunces", serif;
+  color: #242F65!important;
+  font-weight: 600!important;
+  font-size: 30px;
+}
+
+.font-m {
+  font-family: "Mulish", sans-serif;
+  color: #525665!important;
+  font-weight: 500!important;
+}
+
+.custom1 {
+  width: 900px;
+  background-image: url('./images/img1.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.custom2 {
+  width: 900px;
+  background-image: url('./images/img2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.custom3 {
+  width: 900px;
+  background-image: url('./images/img3.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.custom4 {
+  width: 900px;
+  background-image: url('./images/img4.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card-width {
+  width: 18rem;
+  padding: 40px 20px 20px 20px;
+}
+
+.card-img-size {
+  height: 45px;
+  width: 60px;
+  padding: 0 0 0 20px;
+}
+
+.card-title {
+  font-family: 'Fraunces', 'Serif';
+  color: #242F65!important;
+}
+
+.card-text {
+  font-family: 'Mulish', 'Sans-Serif';
+  color: #525665!important;
+}
+
+.wrapper {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.row {
+  width: 70%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.img {
+  background-image: url("./images/bg2.png");
+  background-repeat: no-repeat;
+  background-size: 700px 400px;
+  background-position: center;
+}
+
+.footer {
+  background-image: url("./images/bg3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
