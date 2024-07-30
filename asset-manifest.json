@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Landing-Page-React/static/css/main.dc34b518.css",
+    "main.js": "/Landing-Page-React/static/js/main.b763f8b2.js",
+    "static/media/phone6.png": "/Landing-Page-React/static/media/phone6.1a8dc2f448c182405afc.png",
+    "static/media/bg1.png": "/Landing-Page-React/static/media/bg1.6b2209585c41b800998b.png",
+    "static/media/bg3.png": "/Landing-Page-React/static/media/bg3.5ec801f82966bd751c1d.png",
+    "static/media/screen1.png": "/Landing-Page-React/static/media/screen1.f64009cb1658d821d847.png",
+    "static/media/screen4.png": "/Landing-Page-React/static/media/screen4.01ae39c8f5b31864cd20.png",
+    "static/media/bg2.png": "/Landing-Page-React/static/media/bg2.fc71b57ef99a99f1be38.png",
+    "static/media/screen2.png": "/Landing-Page-React/static/media/screen2.45153a746b939a5be684.png",
+    "static/media/phone1.png": "/Landing-Page-React/static/media/phone1.84d3e8a1836327cf28ef.png",
+    "static/media/phone2.png": "/Landing-Page-React/static/media/phone2.99ac4ced984ffaca41e8.png",
+    "static/media/phone4.png": "/Landing-Page-React/static/media/phone4.2993b1a99445b472bdc9.png",
+    "static/media/screen3.png": "/Landing-Page-React/static/media/screen3.1f5c10646649810d5892.png",
+    "static/media/phone5.png": "/Landing-Page-React/static/media/phone5.012f61c68cd06042d583.png",
+    "static/media/logo.png": "/Landing-Page-React/static/media/logo.dc7d36d63c52e84b56b1.png",
+    "static/media/phone3.png": "/Landing-Page-React/static/media/phone3.094eb14ba62fe931bdac.png",
+    "static/media/icon5.png": "/Landing-Page-React/static/media/icon5.da8a6bbb3841db5376fa.png",
+    "static/media/icon3.png": "/Landing-Page-React/static/media/icon3.aa380a765c3c8ee375f4.png",
+    "index.html": "/Landing-Page-React/index.html",
+    "main.dc34b518.css.map": "/Landing-Page-React/static/css/main.dc34b518.css.map",
+    "main.b763f8b2.js.map": "/Landing-Page-React/static/js/main.b763f8b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc34b518.css",
+    "static/js/main.b763f8b2.js"
+  ]
+}
